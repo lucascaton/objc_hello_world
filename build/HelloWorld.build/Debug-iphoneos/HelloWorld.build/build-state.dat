@@ -1,7 +1,7 @@
 THelloWorld
 v7
 r0
-t323117700.926507
+t323301676.146955
 cCheck dependencies
 cCpResource build/Debug-iphoneos/HelloWorld.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
 cProcessInfoPlistFile /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/Info.plist HelloWorld-Info.plist
@@ -12,9 +12,9 @@ cProcessPCH /var/folders/gJ/gJpWIJmbEDCZ+zaT8TbQu++++TI/-Caches-/com.apple.Xcode
 cCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/main.o /Users/lucascaton/projects/code/objc/HelloWorld/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldAppDelegate.o /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldViewController.o /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld normal armv6
 cCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/main.o /Users/lucascaton/projects/code/objc/HelloWorld/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorldAppDelegate.o /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld normal armv6
 cCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorldViewController.o /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
 cLd /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld normal armv7
 cCreateUniversalBinary /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/HelloWorld normal "armv6 armv7"
@@ -83,21 +83,21 @@ i"HelloWorldAppDelegate.h"
 i"HelloWorldViewController.h"
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldViewController.h
-c000000004D91F5D10000000000000182
-t1301411281
-s386
+c000000004D94EF0B00000000000001E3
+t1301606155
+s483
 i<UIKit/UIKit.h>
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldViewController.m
-c000000004D91F76600000000000006C6
-t1301411686
-s1734
+c000000004D94FA1200000000000007F1
+t1301608978
+s2033
 i"HelloWorldViewController.h"
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/HelloWorldViewController.xib
-c000000004D92047200000000000072A2
-t1301415026
-s29346
+c000000004D94F0050000000000007F1E
+t1301606405
+s32542
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/HelloWorld_Prefix.pch
 c000000004D91DDC300000000000000BD
@@ -112,20 +112,20 @@ t1301405123
 s20045
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app
-t1301424900
+t1301608876
 s374
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app.dSYM
-t1301413387
+t1301608875
 s102
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/HelloWorld
-t1301413387
-s52736
+t1301608875
+s53104
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/HelloWorldViewController.nib
-t1301424900
-s2582
+t1301608872
+s2826
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/Info.plist
 t1301413382
@@ -152,8 +152,8 @@ t1301413387
 s426
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld
-t1301413387
-s18160
+t1301608874
+s18628
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld.LinkFileList
 c000000004D91FE0600000000000001AE
@@ -161,20 +161,20 @@ t1301413382
 s430
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldAppDelegate.o
-t1301413386
-s50728
+t1301608872
+s51364
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldViewController.o
-t1301413386
-s41048
+t1301608872
+s43212
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/main.o
 t1301413386
 s6464
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld
-t1301413387
-s18160
+t1301608875
+s18520
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld.LinkFileList
 c000000004D91FE0600000000000001AE
@@ -182,12 +182,12 @@ t1301413382
 s430
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorldAppDelegate.o
-t1301413386
-s50644
+t1301608875
+s51284
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorldViewController.o
-t1301413386
-s40976
+t1301608875
+s42912
 
 N/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/main.o
 t1301413386
@@ -214,20 +214,19 @@ s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies323117699#323117699#0(0"0(0#1#0"8670330624#0"0#
+lSLF07#2@18"Check dependencies323301670#323301670#0(0"0(0#1#0"8615490688#0"0#
 
 CCodeSign /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app
-s323117700.604708
-e323117700.926469
+s323301675.602082
+e323301676.146914
 r1
 xCodeSign
 x/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app
-o/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app: replacing existing signature
-lSLF07#2@44"CodeSign build/Debug-iphoneos/HelloWorld.app323117700#323117700#0(114"/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app: replacing existing signature0(0#0#83"/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app8603801568#698"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Lucas Caton (67EWNAMSL3)" --resource-rules=/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/ResourceRules.plist --entitlements /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld.xcent /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app0#
+lSLF07#2@44"CodeSign build/Debug-iphoneos/HelloWorld.app323301675#323301676#0(0"0(0#0#83"/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app8604806688#698"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Lucas Caton (67EWNAMSL3)" --resource-rules=/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/ResourceRules.plist --entitlements /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld.xcent /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app0#
 
 CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldAppDelegate.o /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s323106186.355785
-e323106186.473895
+s323301672.090226
+e323301672.820391
 r1
 xCompileC
 xbuild/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldAppDelegate.o
@@ -236,11 +235,11 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@87"Compile /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldAppDelegate.m323106186#323106186#0(0"0(0#0#79"/Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldAppDelegate.m8630312064#1925"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos -I/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/include -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources/armv6 -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources -include /var/folders/gJ/gJpWIJmbEDCZ+zaT8TbQu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-esobamcnmbrezoegrhaifzysqtum/HelloWorld_Prefix.pch -c /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldAppDelegate.m -o /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldAppDelegate.o0#
+lSLF07#2@87"Compile /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldAppDelegate.m323301672#323301672#0(0"0(0#0#79"/Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldAppDelegate.m8616427776#1925"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos -I/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/include -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources/armv6 -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources -include /var/folders/gJ/gJpWIJmbEDCZ+zaT8TbQu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-esobamcnmbrezoegrhaifzysqtum/HelloWorld_Prefix.pch -c /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldAppDelegate.m -o /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldAppDelegate.o0#
 
 CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldViewController.o /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s323106186.456522
-e323106186.549656
+s323301672.091336
+e323301672.818402
 r1
 xCompileC
 xbuild/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldViewController.o
@@ -249,7 +248,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@90"Compile /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldViewController.m323106186#323106186#0(0"0(0#0#82"/Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldViewController.m8691534592#1931"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos -I/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/include -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources/armv6 -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources -include /var/folders/gJ/gJpWIJmbEDCZ+zaT8TbQu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-esobamcnmbrezoegrhaifzysqtum/HelloWorld_Prefix.pch -c /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldViewController.m -o /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldViewController.o0#
+lSLF07#2@90"Compile /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldViewController.m323301672#323301672#0(0"0(0#0#82"/Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldViewController.m8617128224#1931"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos -I/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/include -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources/armv6 -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources -include /var/folders/gJ/gJpWIJmbEDCZ+zaT8TbQu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-esobamcnmbrezoegrhaifzysqtum/HelloWorld_Prefix.pch -c /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldViewController.m -o /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldViewController.o0#
 
 CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/main.o /Users/lucascaton/projects/code/objc/HelloWorld/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
 s323106186.354462
@@ -265,8 +264,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@62"Compile /Users/lucascaton/projects/code/objc/HelloWorld/main.m323106186#323106186#0(0"0(0#0#54"/Users/lucascaton/projects/code/objc/HelloWorld/main.m8649181312#1883"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos -I/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/include -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources/armv6 -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources -include /var/folders/gJ/gJpWIJmbEDCZ+zaT8TbQu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-esobamcnmbrezoegrhaifzysqtum/HelloWorld_Prefix.pch -c /Users/lucascaton/projects/code/objc/HelloWorld/main.m -o /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/main.o0#
 
 CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorldAppDelegate.o /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s323106186.544371
-e323106186.622270
+s323301672.819030
+e323301675.036151
 r1
 xCompileC
 xbuild/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorldAppDelegate.o
@@ -275,11 +274,11 @@ xnormal
 xarmv7
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@87"Compile /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldAppDelegate.m323106186#323106186#0(0"0(0#0#79"/Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldAppDelegate.m8670312928#1925"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos -I/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/include -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources/armv7 -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources -include /var/folders/gJ/gJpWIJmbEDCZ+zaT8TbQu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dffiofitkcvvcsaqhgwsxglmtqtw/HelloWorld_Prefix.pch -c /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldAppDelegate.m -o /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorldAppDelegate.o0#
+lSLF07#2@87"Compile /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldAppDelegate.m323301672#323301675#0(0"0(0#0#79"/Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldAppDelegate.m8606795328#1925"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos -I/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/include -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources/armv7 -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources -include /var/folders/gJ/gJpWIJmbEDCZ+zaT8TbQu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dffiofitkcvvcsaqhgwsxglmtqtw/HelloWorld_Prefix.pch -c /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldAppDelegate.m -o /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorldAppDelegate.o0#
 
 CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorldViewController.o /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s323106186.622384
-e323106186.712249
+s323301674.874377
+e323301675.035325
 r1
 xCompileC
 xbuild/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorldViewController.o
@@ -288,7 +287,7 @@ xnormal
 xarmv7
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@90"Compile /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldViewController.m323106186#323106186#0(0"0(0#0#82"/Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldViewController.m8655154752#1931"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos -I/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/include -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources/armv7 -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources -include /var/folders/gJ/gJpWIJmbEDCZ+zaT8TbQu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dffiofitkcvvcsaqhgwsxglmtqtw/HelloWorld_Prefix.pch -c /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldViewController.m -o /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorldViewController.o0#
+lSLF07#2@90"Compile /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldViewController.m323301674#323301675#0(0"0(0#0#82"/Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldViewController.m8616549792#1931"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos -I/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/include -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources/armv7 -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources -include /var/folders/gJ/gJpWIJmbEDCZ+zaT8TbQu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dffiofitkcvvcsaqhgwsxglmtqtw/HelloWorld_Prefix.pch -c /Users/lucascaton/projects/code/objc/HelloWorld/Classes/HelloWorldViewController.m -o /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorldViewController.o0#
 
 CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/main.o /Users/lucascaton/projects/code/objc/HelloWorld/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
 s323106186.474011
@@ -304,12 +303,12 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@62"Compile /Users/lucascaton/projects/code/objc/HelloWorld/main.m323106186#323106186#0(0"0(0#0#54"/Users/lucascaton/projects/code/objc/HelloWorld/main.m8687316288#1883"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos -I/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/include -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources/armv7 -I/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources -include /var/folders/gJ/gJpWIJmbEDCZ+zaT8TbQu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dffiofitkcvvcsaqhgwsxglmtqtw/HelloWorld_Prefix.pch -c /Users/lucascaton/projects/code/objc/HelloWorld/main.m -o /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/main.o0#
 
 CCompileXIB /Users/lucascaton/projects/code/objc/HelloWorld/HelloWorldViewController.xib
-s323117699.920155
-e323117700.600021
+s323301670.854861
+e323301672.089838
 r1
 xCompileXIB
 x/Users/lucascaton/projects/code/objc/HelloWorld/HelloWorldViewController.xib
-lSLF07#2@39"CompileXIB HelloWorldViewController.xib323117699#323117700#0(0"0(0#0#76"/Users/lucascaton/projects/code/objc/HelloWorld/HelloWorldViewController.xib8657200800#600"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/HelloWorldViewController.nib /Users/lucascaton/projects/code/objc/HelloWorld/HelloWorldViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+lSLF07#2@39"CompileXIB HelloWorldViewController.xib323301670#323301672#0(0"0(0#0#76"/Users/lucascaton/projects/code/objc/HelloWorld/HelloWorldViewController.xib8614649888#600"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/HelloWorldViewController.nib /Users/lucascaton/projects/code/objc/HelloWorld/HelloWorldViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
 
 CCompileXIB /Users/lucascaton/projects/code/objc/HelloWorld/MainWindow.xib
 s323106182.398540
@@ -329,43 +328,43 @@ x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceR
 lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist323106182#323106182#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8665669536#515"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app0#
 
 CCreateUniversalBinary /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/HelloWorld normal "armv6 armv7"
-s323106187.019758
-e323106187.079687
+s323301675.336698
+e323301675.573098
 r1
 xCreateUniversalBinary
 x/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/HelloWorld
 xnormal
 xarmv6 armv7
-lSLF07#2@89"CreateUniversalBinary build/Debug-iphoneos/HelloWorld.app/HelloWorld normal "armv6 armv7"323106187#323106187#0(0"0(0#0#59"/Users/lucascaton/projects/code/objc/HelloWorld/armv6 armv78665722208#578"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld -output /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/HelloWorld0#
+lSLF07#2@89"CreateUniversalBinary build/Debug-iphoneos/HelloWorld.app/HelloWorld normal "armv6 armv7"323301675#323301675#0(0"0(0#0#59"/Users/lucascaton/projects/code/objc/HelloWorld/armv6 armv78614627616#578"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld -output /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/HelloWorld0#
 
 CGenerateDSYMFile /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app.dSYM /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/HelloWorld
-s323106187.079782
-e323106187.188116
+s323301675.573197
+e323301675.598976
 r1
 xGenerateDSYMFile
 x/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app.dSYM
 x/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/HelloWorld
-lSLF07#2@104"GenerateDSYMFile build/Debug-iphoneos/HelloWorld.app.dSYM build/Debug-iphoneos/HelloWorld.app/HelloWorld323106187#323106187#0(0"0(0#0#94"/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/HelloWorld8664564096#398"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/HelloWorld -o /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app.dSYM0#
+lSLF07#2@104"GenerateDSYMFile build/Debug-iphoneos/HelloWorld.app.dSYM build/Debug-iphoneos/HelloWorld.app/HelloWorld323301675#323301675#0(0"0(0#0#94"/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/HelloWorld8607447232#398"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/HelloWorld -o /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app.dSYM0#
 
 CLd /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld normal armv6
-s323106186.549748
-e323106187.019656
+s323301672.820478
+e323301674.874149
 r1
 xLd
 x/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld
 xnormal
 xarmv6
-lSLF07#2@139"Link /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld323106186#323106187#0(0"0(0#0#0"8665781632#922"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos -F/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos -filelist /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld0#
+lSLF07#2@139"Link /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld323301672#323301674#0(0"0(0#0#0"8605338880#922"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos -F/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos -filelist /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld0#
 
 CLd /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld normal armv7
-s323106186.712358
-e323106187.007369
+s323301675.036224
+e323301675.336577
 r1
 xLd
 x/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld
 xnormal
 xarmv7
-lSLF07#2@139"Link /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld323106186#323106187#0(0"0(0#0#0"8688695744#922"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos -F/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos -filelist /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld0#
+lSLF07#2@139"Link /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld323301675#323301675#0(0"0(0#0#0"8615698976#922"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos -F/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos -filelist /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld0#
 
 CProcessInfoPlistFile /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app/Info.plist HelloWorld-Info.plist
 s323106182.311792
@@ -421,10 +420,10 @@ x/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-ip
 lSLF07#2@184"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld.xcent323106187#323106187#0(0"0(0#0#119"/Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld.xcent8625993824#459"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/lucascaton/projects/code/objc/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld.xcent0#
 
 CTouch /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app
-s323117700.601178
-e323117700.604544
+s323301675.599155
+e323301675.601904
 r1
 xTouch
 x/Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app
-lSLF07#2@89"Touch /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app323117700#323117700#0(0"0(0#0#0"8615407616#285"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app0#
+lSLF07#2@89"Touch /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app323301675#323301675#0(0"0(0#0#0"8605267328#285"    cd /Users/lucascaton/projects/code/objc/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/lucascaton/projects/code/objc/HelloWorld/build/Debug-iphoneos/HelloWorld.app0#
 
